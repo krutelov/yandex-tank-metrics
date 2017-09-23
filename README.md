@@ -9,6 +9,7 @@ Usage:
     -watch logs/<current_log_name>/metrics.html for results
 
 Sample yandex-tank config load.ini:
+
     [tank]
     plugin_metrics=yandextank.plugins.Metrics
 
